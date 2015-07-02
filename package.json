@@ -12,7 +12,7 @@
   "dependencies": {
     "lodash": "3.10.x",
     "map-stream": "0.1.x",
-    "preprocess": "2.3.x"
+    "preprocess": "https://github.com/Nimblic/preprocess.git"
   },
   "devDependencies": {
     "gulp-util": "3.0.x",
